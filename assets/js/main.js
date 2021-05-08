@@ -1,9 +1,11 @@
-/**
-* Template Name: Medicio - v4.1.0
-* Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+function myFunction() {
+  var x = document.getElementById("appointment");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
 (function() {
   "use strict";
 
