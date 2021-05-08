@@ -5,6 +5,13 @@ function myFunction() {
   } else {
     x.style.display = "none";
   }
+
+  var y = document.getElementById("doctors");
+  if (y.style.display === "none") {
+    y.style.display = "block";
+  } else {
+    y.style.display = "none";
+  }
 }
 (function() {
   "use strict";
