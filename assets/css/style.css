@@ -434,7 +434,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 50px;
-  border-top: 4px solid red;
+  border-top: #fff;
 }
 
 @media (max-width: 1200px) {
@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
   width: auto;
   height: auto;
-  background:transparent ;
+  background:#e5e4e2 ;
   border-radius: 50px;
   transition: 0.3s;
   color: rgba(255, 255, 255, 0.5);
@@ -500,7 +500,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel-control-next-icon:hover, #hero .carousel-control-prev-icon:hover {
-  background: #1589ff;
+  background: #6A287E;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -738,7 +738,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #c11b17;
+  background: #6A287E;
   color: #fff;
   background-size: cover;
   padding: 60px 0;
@@ -764,8 +764,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #fff;
-  color: #990012;
+  background: #c11b17;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -811,7 +811,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 30px;
-  color: #3fbbc0;
+  color: #6A287E;
   float: left;
 }
 
@@ -835,14 +835,14 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #7b7b7b;
+  color: #7d1b7e;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
 .counts .count-box a:hover {
-  color: #3fbbc0;
+  color: #6c2dc7;
 }
 
 /*--------------------------------------------------------------
@@ -857,7 +857,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #3fbbc0;
+  color:#6A287E;
 }
 
 .features .icon-box p {
