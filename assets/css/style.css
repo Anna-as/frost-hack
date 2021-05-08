@@ -1154,7 +1154,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #b2e4e6;
+  color: #6A287E;
   font-size: 26px;
 }
 
@@ -1175,7 +1175,7 @@ section {
   font-style: italic;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
-  background: #f0fafa;
+  background: #e9cfec;
   position: relative;
   border-radius: 6px;
   position: relative;
@@ -1192,11 +1192,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #3fbbc0;
+  border: 1px solid #6A287E;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3fbbc0;
+  background-color: #6A287E;
 }
 
 /*--------------------------------------------------------------
@@ -1663,7 +1663,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #3fbbc0;
+  background: #6A287E;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1699,7 +1699,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #3fbbc0;
+  color:#6A287E;
   font-size: 18px;
   line-height: 1;
 }
