@@ -14,6 +14,22 @@ function myFunction() {
   }
 }
 
+function test() {
+  var x = document.getElementById("testappoinment");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+
+  var y = document.getElementById("testbtn");
+  if (y.style.display === "none") {
+    y.style.display = "block";
+  } else {
+    y.style.display = "none";
+  }
+}
+
 function hide() {
   var x = document.getElementById("lab");
   if (x.style.display === "none") {
