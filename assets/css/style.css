@@ -171,16 +171,17 @@ h1, h2, h3, h4, h5, h6 {
 */
 .appointment-btn {
   margin-left: 25px;
-  background: #6A287E;
-  color: #fff;
-  border-radius: 4px;
-  padding: 8px 25px;
-  white-space: nowrap;
-  transition: 0.3s;
-  font-size: 14px;
-  display: inline-block;
-  width: 50%;
-  height: 100%;
+    background: #6A287E;
+    color: #fff;
+    border-radius: 4px;
+    padding: 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: larger;
+    font-weight: bolder;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
 }
 
 .appointment-btn:hover {
@@ -489,7 +490,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
   width: auto;
   height: auto;
-  background:#e5e4e2 ;
+  background:transparent ;
   border-radius: 50px;
   transition: 0.3s;
   color: rgba(255, 255, 255, 0.5);
@@ -501,7 +502,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel-control-next-icon:hover, #hero .carousel-control-prev-icon:hover {
-  background: #6A287E;
+  background: #e5e4e2;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -519,7 +520,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background:  #7D1B7E;
+  background:  #743a75;
 }
 
 #hero .btn-get-started {
@@ -533,7 +534,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   color: #fff;
-  background : #2b60de;
+  background : #8d418f;
 }
 
 #hero .btn-get-started:hover {
